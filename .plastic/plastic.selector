@@ -1,0 +1,4 @@
+repository "fortune_mine/fortune_mine@18968058000024@cloud"
+  path "/"
+    br "/main"
+    co "/main"
